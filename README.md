@@ -1,3 +1,6 @@
+# tienda-mc-store
+Tienda web para MC Store con Next.js y Sanity
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Estado del proyecto (Enero 2026)
